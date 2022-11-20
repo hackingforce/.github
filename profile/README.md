@@ -1,4 +1,4 @@
-![HackingForce](https://raw.githubusercontent.com/hackingforce/.github/main/assets/header.jpg)
+![HackingForce](https://raw.githubusercontent.com/hackingforce/.github/main/assets/readme_header.jpg)
 
 ### HackingForce
 
